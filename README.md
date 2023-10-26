@@ -1,7 +1,12 @@
 ### Hi there 👋
-![Ebio Narduche GitHub stats](https://github-readme-stats.vercel.app/api?username=ebionarduche&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebionarduche&layout=compact&theme=radical)
 
+
+
+<div align="center">
+  <a href="https://github.com/ebionarduche">
+  <img height="175px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ebionarduche&show_icons=true&count_private=true&title_color=f061f2&icon_color=50fa7b&text_color=c9d1d9&bg_color=0d1117" alt="Joao Zini github stats"/>
+  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfzini&layout=compact&title_color=f061f2&text_color=c9d1d9&bg_color=0d1117"/></a>
+</div>
 
 
 <!--
